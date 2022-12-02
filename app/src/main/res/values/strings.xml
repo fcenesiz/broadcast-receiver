@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadCastReceiver01</string>
+    <string name="custom_action_receiver">my.custom.action</string>
+</resources>
